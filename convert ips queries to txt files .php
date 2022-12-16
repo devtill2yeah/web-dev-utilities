@@ -26,3 +26,5 @@ fwrite($fh, $stringData);
 fclose($fh);print "<strong> </strong><br />\n"; if ($referred == "") {print ""; }else {print "$referred";}?><!-- Redirecting to a different page 
 (The following line is optional; you may delete it if you don't want to redirect) 
 --><script type="text/javascript"><!--window.location = "http://www.google.com/"//--></script></head><body></body></html> 
+
+
