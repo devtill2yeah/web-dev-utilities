@@ -1,4 +1,6 @@
 
+
+
        if (isDomainAvailible('http://www.css-tricks.com'))
        {
                echo "Up and running!";
