@@ -1,4 +1,6 @@
 
+
+
 <head><?php$ip = $_SERVER['REMOTE_ADDR']; 
 
 $time = date("l F dS h:i:s A Y");
